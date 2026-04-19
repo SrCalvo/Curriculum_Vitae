@@ -35,6 +35,7 @@ Estudiante de los últimos semestres de Ingeniería en Sistemas Computacionales 
 *Tecnológico de Estudios Superiores del Estado de México (TESOEM)*
 * Sep 2022 – Presente
 
-**Profesional Técnico Bachiller en Informática**
-*Colegio Nacional de Educación Profesional Técnica (CONALEP)*
-* Ago 2019 – Jul 2022
+**Profesional Técnico Bachiller en Informática**  
+*Colegio Nacional de Educación Profesional Técnica (CONALEP)*  
+Ago 2019 – Jul 2022  
+Cédula profesional: 15588612

@@ -1,7 +1,7 @@
 # JHONATAN JAZAEL ONTAÑON ORTIZ
 **Ingeniería en Sistemas Computacionales | Arquitectura IT & Soluciones Lógicas**
 
-📍 Ixtapaluca, Edo. Méx. (Disponibilidad CDMX / Remoto)
+📍 Edo. Méx. (Disponibilidad CDMX / Remoto)
 📧 j.jazael11@hotmail.com
 💻 GitHub: github.com/SrCalvo
 
